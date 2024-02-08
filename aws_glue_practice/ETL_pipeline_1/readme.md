@@ -8,4 +8,5 @@
  - the second crawler will crawl through redshift and fetch the table structure and create a glue catalog
  - now the glue ETL can store the parquet file to redshift with ease since we already know the table structure
 <br>
+
 ![WhatsApp Image 2024-02-08 at 23 04 03_12b67972](https://github.com/AKA-RONY/AWS_PlayGround/assets/67736824/8c146739-96e3-4653-a27e-b23f1c60845c)
