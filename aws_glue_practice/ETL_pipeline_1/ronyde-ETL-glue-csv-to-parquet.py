@@ -64,8 +64,7 @@ ChangeSchema_node1707421715064 = ApplyMapping.apply(
 # for changing datatypes of column 
 #convert those string values to long values using the resolveChoice transform method with a cast:long option:
 #This replaces the string values with null values
-ResolveChoice_node= ChangeSchema_node1707421715064.resolveChoice(specs = [('new_seller_id','cast:long')], transformation_ctx= "ResolveChoice_node" ) # casting as long so it will give null values to string data elements
-
+ResolveChoice_node= ChangeSchema_node1707421715064.resolveChoice(specs = [('new_seller_id','cast:long')], transformation_ctx= "ResolveChoice_node" ) # 'new_seller_id' has number as well as string value so ,casting as long so it will give null values to string data elements
 logger.info('print schema of ResolveChoice_node')
 ResolveChoice_node.printSchema()
 
