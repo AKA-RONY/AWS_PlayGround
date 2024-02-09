@@ -93,7 +93,7 @@ logger.info('display records after aggregate result')
 product_sql_df.show()
 
 
-#convert the dataframe back to dynamic frame
+#convert the sparkdataframe back to dynamic frame
 logger.info('convert spark dataframe to dynamic frame')
 dynamic_frame= DynamicFrame.fromDF(product_sql_df,glueContext,"dynamic_frame")
 
