@@ -12,3 +12,5 @@
 ![WhatsApp Image 2024-02-08 at 23 04 03_12b67972](https://github.com/AKA-RONY/AWS_PlayGround/assets/67736824/8c146739-96e3-4653-a27e-b23f1c60845c)
 
 reference: https://www.youtube.com/watch?v=EhaXoMRCftY&list=PLLZXJgUgFQTdArrEHNwDLWBfeYEVzB4iq&index=4&t=250s
+<br>
+https://youtu.be/RGSKeK9xow0?si=jzr8pmkJNrHTLBBx
